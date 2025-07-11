@@ -80,6 +80,13 @@ function handleCheckbox(){
         passwordLength = checkCount;
         handleSlider();
     }
+
+    if (checkCount==0) {
+        generatePassBtn.classList.add("not-allowed");
+    }
+    else {
+        generatePassBtn.classList.remove("not-allowed");
+    }
 }
 
 

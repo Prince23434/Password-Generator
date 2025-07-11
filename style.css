@@ -218,6 +218,13 @@ h1 {
     cursor: pointer;
 }
 
+.generateButton.not-allowed{
+    cursor: not-allowed ;
+    outline: none;
+    border: none;
+    border-bottom: 0.35rem solid var(--vb-yellow);
+}
+
 .slider{
     appearance: none;
     width: 100%;

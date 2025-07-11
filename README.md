@@ -48,5 +48,4 @@ The design features a modern dark theme with vibrant accents, ensuring that the 
 
 ## 🙌 Acknowledgements
 
-This password generator is designed to provide users with secure and customizable password options for better online security. Inspired by modern design trends and web functionality.
-Inspired by Love Babbar Web dev course project.
+This password generator is designed to provide users with secure and customizable password options for better online security. The design and functionality are inspired by modern web development practices and refined as part of a project from Love Babbar's Web Development Course.
